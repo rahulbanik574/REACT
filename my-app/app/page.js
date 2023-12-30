@@ -2,6 +2,8 @@
 import React, { useState } from 'react'//optional line
 
 
+
+//MAKING A FUNCTION ONCLICK
 const page = () => {
   //let marks =80;-react mey humlog esa var nehi banate..we use react hook for making var
   const [marks, setmarks] = useState(99)
